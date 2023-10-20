@@ -27,7 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is a connect four in python.
+This project is a connect four in python in a 1920x1080 screen.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -43,10 +43,6 @@ This project is a connect four in python.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 * python3
