@@ -58,10 +58,6 @@ _Installations needed to be done._
    ```sh
    pip3 install pygame
    ```
-2. Keyboard
-   ```sh
-   pip3 install keyboard
-   ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
